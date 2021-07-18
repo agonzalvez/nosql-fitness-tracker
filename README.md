@@ -12,8 +12,8 @@ This app will allow the user to create and track daily workouts. The user will b
 ## Installation
 The following the dependecis should be installed: 1) Express 2) Mongoose 3) Morgan
 ## Usage
-![App preview](assets/ezgif.com-gif-maker.gif) this link to use the deployed app. Happy workout! 
-[Click](assets/ezgif.com-gif-maker.gif) this link to use the deployed app. Happy workout! 
+- ![App preview](assets/ezgif.com-gif-maker.gif)
+- [Click](https://floating-citadel-88773.herokuapp.com/) this link to use the deployed app. Happy workout! 
 ## License
 This application is under the MIT license.  
 ## Contributors
